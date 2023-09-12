@@ -1,0 +1,10 @@
+﻿  JumpPointSearch.cpp
+C:\Users\gintokiluv\Desktop\DevRepos\220907_JumpPointSearch (3) - 최종\JumpPointSearch.h(167,20): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\220907_JumpPointSearch (3) - 최종\JumpPointSearch.cpp(22,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\220907_JumpPointSearch (3) - 최종\JumpPointSearch.cpp(59,11): warning C4101: 'wpDest' :참조되지 않은 지역 변수입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\220907_JumpPointSearch (3) - 최종\JumpPointSearch.cpp(150,15): warning C4101: 'searchParentNode' :참조되지 않은 지역 변수입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\220907_JumpPointSearch (3) - 최종\JumpPointSearch.cpp(149,15): warning C4101: 'searchNode' :참조되지 않은 지역 변수입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\220907_JumpPointSearch (3) - 최종\JumpPointSearch.cpp(500,52): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\220907_JumpPointSearch (3) - 최종\JumpPointSearch.cpp(949,52): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\220907_JumpPointSearch (3) - 최종\JumpPointSearch.cpp(683): warning C4715: 'CJumpPointSearch::FindPath_Linear_SubSearch': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  220907_JumpPointSearch.vcxproj -> C:\Users\gintokiluv\Desktop\DevRepos\220907_JumpPointSearch (3) - 최종\x64\Debug\220907_JumpPointSearch.exe
